@@ -1,14 +1,20 @@
 {
   "name": "travel-module-dnd5e",
-  "title": "Módulo de Viajes para D&D 5e",
-  "description": "Adaptación de las reglas de viaje de El Anillo Único 2e para D&D 5e en Foundry VTT.",
+  "title": "Travel Module for D&D 5e",
+  "description": "Reglas de viaje inspiradas en El Anillo Único 2e, adaptadas a D&D 5e.",
   "version": "1.0.0",
   "author": "hio003",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "13.3.4.3",
   "systems": ["dnd5e"],
-  "styles": ["style.css"],
-  "scripts": ["travel-module.js"]
-  "manifest": "https://hio003.github.io/travel-module-dnd5e/module.json",
-  "download": "https://hio003.github.io/travel-module-dnd5e/travel-module.zip", 
+  "scripts": ["travel-module.js"],
+  "styles": [],
+  "esmodules": [],
+  "languages": [],
+  "packs": [],
   "url": "https://github.com/hio003/travel-module-dnd5e",
-  "license": "MIT"
+  "manifest": "https://hio003.github.io/travel-module-dnd5e/module.json",
+  "download": "https://hio003.github.io/travel-module-dnd5e/travel-module-dnd5e
+.zip"
 }
+
