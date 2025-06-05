@@ -1,0 +1,16 @@
+{
+  "name": "travel-module-dnd5e",
+  "title": "Travel Rules for D&D 5e (Inspired by TOR 2e)",
+  "description": "Adds journey roles, fatigue mechanics, and a random travel event table for use in exploration-heavy campaigns.",
+  "version": "1.0.0",
+  "author": "Adapted by ChatGPT",
+  "esmodules": ["travel-module.js"],
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12.3.4.3",
+  "system": ["dnd5e"],
+  "styles": ["style.css"],
+  "url": "https://example.com/travel-module",
+  "manifest": "https://example.com/travel-module/module.json",
+  "download": "https://example.com/travel-module/travel-module.zip",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+/* style.css */
+.travel-dialog label {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.travel-dialog select {
+  margin: 4px 0 10px 0;
+}
