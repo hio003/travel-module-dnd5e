@@ -9,7 +9,7 @@
   "systems": ["dnd5e"],
   "scripts": ["scripts/travel-module.js"],
   "styles": [],
-  "esmodules": ["travel-module.js"],
+  "esmodules": ["scripts/travel-module.js"],
   "languages": [],
   "packs": [],
   "url": "https://github.com/hio003/travel-module-dnd5e",
