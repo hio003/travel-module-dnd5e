@@ -7,7 +7,7 @@
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "13.3.4.3",
   "systems": ["dnd5e"],
-  "scripts": ["travel.js"],
+  "scripts": ["travel-module.js"],
   "styles": [],
   "esmodules": [],
   "languages": [],
